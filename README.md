@@ -268,8 +268,6 @@ Xc= 558 Ω
 
 [![11.png](https://i.postimg.cc/F1XFYR6h/11.png)](https://postimg.cc/7JXrcxDR)
 
-[![12.png](https://i.postimg.cc/htbbsZV0/12.png)](https://postimg.cc/zyvgXjtL)
-
 =-14,5°
 
 ***(31)*** Para el circuito de la figura 15-88, determine lo siguiente en forma polar:
