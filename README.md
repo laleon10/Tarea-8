@@ -4,6 +4,25 @@ cap 15 - 16
 OBJETIVOS
 
 # Objetivo general
+
+-Explicar y resolver los problemas presentados en los capítulos quince y dieciséis del libro "Principios de circuitos eléctricos" de Floyd mediante el uso de los conocimientos adquiridos en clases y el contenido del libro referente a circuitos RL y RC con fuentes de corriente alterna para de esta manera poder encontrar un voltaje y las corrientes teniendo en cuenta los voltajes rms y pico a pico, su transformacion, sus frecuencias y desfaces, permitiéndonos identificar las características correspondientes y lograr resolver cualquier tipo de circuito con un análisis y razonamiento adecuado.
+
+# Objetivos específicos
+
+-Identificar de una manera agil lo solicitado, resolver los circuitos mediante los los metodos explicados en los precentes capitulos sobre inductores y capacitores con corriente alterna.
+
+# MARCO TEÓRICO:
+
+ cap 15
+ 
+Un circuito RC contiene tanto resistencia como capacitancia. En este capítulo, se presentan circuitos RC en serie y en paralelo básicos, así como sus respuestas a
+voltajes sinusoidales de ca. También se analizan combinaciones dispuestas en serie-paralelo. Se estudian las potencias verdadera, reactiva y aparente en circuitos RC y se introducen algunas aplicaciones básicas de circuitos RC. Las aplicaciones de circuitos RC incluyen filtros, acoplamiento de amplificadores, osciladores, y circuitos modificadores de ondas. En este capítulo también se aborda la localización de fallas.
+
+cap 16
+
+En este capítulo se estudiarán circuitos RL dispuestos en serie y en paralelo. Los análisis de circuitos RL y RC son similares. La diferencia principal es que las
+respuestas de fase son opuestas: la reactancia inductiva se incrementa con la frecuencia, en tanto que la reactancia capacitiva disminuye con la frecuencia. Un circuito RL contiene tanto resistencia como inductancia. En este capítulo, se presentan los circuitos RL básicos en serie y en paralelo y sus respuestas a voltajes sinusoidales de ca. Se analizan combinaciones en serie-paralelo.
+
 **Ejercicios del Capítulo 15**
 
 ***(1)*** ¿Cuáles son las dos características de una cantidad indicada mediante un número complejo?
@@ -512,3 +531,13 @@ Utilizar la fórmula, Vsal=(R/Ztot)
  (b) L2 abierto =0V
 (c) R1 abierto=1.62<-25.8°
  (d) un cortocircuito a través de R2=2.15<-64.5V
+
+# CONCLUSIONES:
+
+En este ejercicio pudimos observar un correcto análisis e interpretación de los ejercicios impartidos, así como un repaso teórico del tema a tratar.
+
+En los circuitos RC, se estudian las relaciones en serie y en paralelo entre los componentes y su efecto en el voltaje de salida.
+
+# BIBLIOGRAFÍA:
+
+Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson Prentice Hall.
